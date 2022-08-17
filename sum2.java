@@ -6,7 +6,7 @@ public class sum2 {
 
     //calculating the sum of num1 and num2 and
     //storing the result in the variable sum
-   product=a*b;
+   product=a/b;
 
     //printing the result
     System.out.println("Sum of "+num1+" and "+num2+" is: "+sum);
